@@ -42,9 +42,7 @@ class _AddNewItemState extends State<AddNewItem> {
                 ),
                 SizedBox(height: 30.0),
                 FlatButton(
-                  onPressed: () {
-                    updateItemData();
-                  },
+                  onPressed: () {},
                   child: Text('Add Item to Inventory'),
                   color: PrimaryColor,
                 ),
