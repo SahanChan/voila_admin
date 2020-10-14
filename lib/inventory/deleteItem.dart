@@ -51,25 +51,31 @@ class _DeleteItemState extends State<DeleteItem> {
                                       Padding(
                                         padding: const EdgeInsets.fromLTRB(
                                             8, 8, 8, 2),
-                                        child: Text(
-                                          list[index]['title'],
-                                          style: TextStyle(
-                                              fontSize: 15,
-                                              fontWeight: FontWeight.bold),
+                                        child: Center(
+                                          child: Text(
+                                            list[index]['title'],
+                                            style: TextStyle(
+                                                fontSize: 15,
+                                                fontWeight: FontWeight.bold),
+                                          ),
                                         ),
                                       ),
                                       Padding(
                                         padding: const EdgeInsets.all(8.0),
-                                        child: Text(
-                                          list[index]['desc'],
-                                          style: TextStyle(fontSize: 12),
+                                        child: Center(
+                                          child: Text(
+                                            list[index]['desc'],
+                                            style: TextStyle(fontSize: 12),
+                                          ),
                                         ),
                                       ),
                                       Padding(
                                         padding: const EdgeInsets.all(8.0),
-                                        child: Text(
-                                          list[index]['price'].toString(),
-                                          style: TextStyle(fontSize: 12),
+                                        child: Center(
+                                          child: Text(
+                                            list[index]['price'].toString(),
+                                            style: TextStyle(fontSize: 12),
+                                          ),
                                         ),
                                       ),
                                     ],
@@ -79,39 +85,29 @@ class _DeleteItemState extends State<DeleteItem> {
                             ),
                             Padding(
                               padding: const EdgeInsets.all(8.0),
-                              child: Row(
-                                mainAxisAlignment:
-                                    MainAxisAlignment.spaceBetween,
-                                children: <Widget>[
-                                  Padding(
-                                    padding:
-                                        const EdgeInsets.fromLTRB(0, 0, 10, 0),
-                                    child: Row(
-                                      mainAxisAlignment:
-                                          MainAxisAlignment.spaceBetween,
-                                      children: [
-                                        IconButton(
-                                          icon: Icon(
-                                            Icons.delete,
-                                            color: Colors.red,
-                                          ),
-                                          onPressed: () async {
-                                            DocumentSnapshot ref = list[index];
-
-                                            await Firestore.instance
-                                                .collection("Items")
-                                                .document(ref.documentID)
-                                                .delete();
-
-                                            setState(() {
-                                              id = null;
-                                            });
-                                          },
-                                        )
-                                      ],
+                              child: Center(
+                                child: Padding(
+                                  padding:
+                                      const EdgeInsets.fromLTRB(0, 0, 10, 0),
+                                  child: IconButton(
+                                    icon: Icon(
+                                      Icons.delete,
+                                      color: Colors.red,
                                     ),
+                                    onPressed: () async {
+                                      DocumentSnapshot ref = list[index];
+
+                                      await Firestore.instance
+                                          .collection("Items")
+                                          .document(ref.documentID)
+                                          .delete();
+
+                                      setState(() {
+                                        id = null;
+                                      });
+                                    },
                                   ),
-                                ],
+                                ),
                               ),
                             ),
                           ],
