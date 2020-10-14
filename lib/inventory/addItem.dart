@@ -36,13 +36,10 @@ class _AddNewItemState extends State<AddNewItem> {
   @override
   Widget build(BuildContext context) {
     final _formKey = GlobalKey<FormState>();
-
     final title = TextEditingController();
     final desc = TextEditingController();
-
     final price = TextEditingController();
     final expiryDate = TextEditingController();
-
     return Scaffold(
       appBar: AdminAppBar(
         title: "Add new Item",

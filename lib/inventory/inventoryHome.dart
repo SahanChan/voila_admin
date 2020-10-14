@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:viola_admin/constants.dart';
+import 'package:viola_admin/inventory/deleteItem.dart';
 import 'package:viola_admin/models/appBar.dart';
 import 'package:viola_admin/inventory/addItem.dart';
 
@@ -33,7 +34,10 @@ class _InventoryState extends State<Inventory> {
                 child: Text("Delete Inventory item",
                     style: TextStyle(fontSize: 30)),
                 color: PrimaryColor,
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => DeleteItem()));
+                },
               ),
               FlatButton(
                 padding: EdgeInsets.fromLTRB(20, 10, 20, 10),
