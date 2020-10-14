@@ -1,4 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:email_validator/email_validator.dart';
 import 'package:flutter/material.dart';
 
 import 'package:viola_admin/constants.dart';
@@ -76,8 +77,11 @@ class _AddNewEmployeeState extends State<AddNewEmployee> {
                   validator: (value) {
                     if (value.isEmpty) {
                       return "Enter email address  please";
-                    } else {
+                    }
+                    if (EmailValidator.validate(value)) {
                       return null;
+                    } else {
+                      return "Please enter a valid email Address";
                     }
                   },
                 ),
@@ -148,7 +152,7 @@ class _AddNewEmployeeState extends State<AddNewEmployee> {
                         'nic': nic.text,
                       });
                     }
-                    Navigator.of(context).pop();
+                    // Navigator.of(context).pop();
                   },
                   child: Text('Add Employee to database'),
                   color: PrimaryColor,
