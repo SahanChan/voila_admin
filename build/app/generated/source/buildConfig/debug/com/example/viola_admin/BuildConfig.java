@@ -5,7 +5,7 @@ package com.example.viola_admin;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.example.viola_admin";
+  public static final String APPLICATION_ID = "com.example.VoilaGiftApp";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;

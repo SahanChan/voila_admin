@@ -4,7 +4,7 @@
             "outputFile": "/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
-                    "source": "/home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/res/values-lv/values.xml",
+                    "source": "/home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/res/values-lv/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

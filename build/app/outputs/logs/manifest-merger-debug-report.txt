@@ -5,17 +5,14 @@ INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml:1:1-47:12
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml:1:1-47:12
 MERGED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml:1:1-47:12
-MERGED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/bcec79fd0102684bc4368a1d8d78ba2f/firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/sally/.gradle/caches/transforms-2/files-2.1/bbeed7d4105212ae9e66e847f0b51a60/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4a1b76dd3c4035c491b99b70fc0c8e6b/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/773a75bd444cbbd7f6bef8fba7a4c9a0/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/d2ef77a36cdcb0a42b5b3a176cd02888/activity-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/40cad443c0f5031f7cad1b610e370991/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -28,11 +25,11 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/sally/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/df1a237b7e4601c12501ff78ad3f7442/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/52bbfcb621044ee1d9ac70d4c76fa221/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/b66204b097051390ff693e11b107a7b5/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/be17b3469e6c8ec68b16d9f07bf48a69/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a4528b4bc53830775a3b408a8830657e/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4d5514e62eb8e5a150d40bdc7a25b04a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a02de315ef2c3b80e0a7899da28c7b67/firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/36af7a046fee2053fdbd91078f57e6a4/protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -52,26 +49,22 @@ INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology
 		ADDED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml:8:5-46:19
-MERGED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/bcec79fd0102684bc4368a1d8d78ba2f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/bcec79fd0102684bc4368a1d8d78ba2f/firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4a1b76dd3c4035c491b99b70fc0c8e6b/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4a1b76dd3c4035c491b99b70fc0c8e6b/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/b66204b097051390ff693e11b107a7b5/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -130,28 +123,22 @@ uses-sdk
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/bcec79fd0102684bc4368a1d8d78ba2f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/bcec79fd0102684bc4368a1d8d78ba2f/firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/sally/.gradle/caches/transforms-2/files-2.1/bbeed7d4105212ae9e66e847f0b51a60/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/sally/.gradle/caches/transforms-2/files-2.1/bbeed7d4105212ae9e66e847f0b51a60/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4a1b76dd3c4035c491b99b70fc0c8e6b/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4a1b76dd3c4035c491b99b70fc0c8e6b/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/773a75bd444cbbd7f6bef8fba7a4c9a0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/773a75bd444cbbd7f6bef8fba7a4c9a0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/d2ef77a36cdcb0a42b5b3a176cd02888/activity-1.0.0/AndroidManifest.xml:20:5-22:41
@@ -176,16 +163,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sally/.gradle/caches/t
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/52bbfcb621044ee1d9ac70d4c76fa221/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/b66204b097051390ff693e11b107a7b5/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/b66204b097051390ff693e11b107a7b5/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/be17b3469e6c8ec68b16d9f07bf48a69/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/be17b3469e6c8ec68b16d9f07bf48a69/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a4528b4bc53830775a3b408a8830657e/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a4528b4bc53830775a3b408a8830657e/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4d5514e62eb8e5a150d40bdc7a25b04a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/sally/.gradle/caches/transforms-2/files-2.1/4d5514e62eb8e5a150d40bdc7a25b04a/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
-MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a02de315ef2c3b80e0a7899da28c7b67/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a02de315ef2c3b80e0a7899da28c7b67/firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/36af7a046fee2053fdbd91078f57e6a4/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/36af7a046fee2053fdbd91078f57e6a4/protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml
 INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -196,36 +183,26 @@ INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology
 		INJECTED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
 	android:name
 		ADDED from /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/debug/AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+ADDED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
-MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:19:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
-meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-	android:value
-		ADDED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-	android:name
-		ADDED from [:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+		ADDED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
 ADDED from [:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
@@ -238,50 +215,18 @@ ADDED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Informat
 		ADDED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
 		ADDED from [:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
-activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
-	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
-	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
-	android:exported
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
-	android:permission
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
-	android:theme
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
-	tools:replace
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:31:13-47
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
-meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
-	android:value
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/sally/.gradle/caches/transforms-2/files-2.1/87b0af8791279c00428fb598e0a3c469/grpc-android-1.21.0/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:22-76
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:22-76
 meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
-ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
 	android:value
-		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -290,9 +235,19 @@ ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradl
 		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

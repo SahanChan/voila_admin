@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.viola_admin"
+3    package="com.example.VoilaGiftApp"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -17,8 +17,8 @@
 15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-17-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
-17-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:22-76
+17-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+17-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:22-76
 18    <!--
 19 io.flutter.app.FlutterApplication is an android.app.Application that
 20         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -101,86 +101,59 @@
 71-->/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/AndroidManifest.xml:45:13-30
 72
 73        <service
-73-->[:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+73-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 74            android:name="com.google.firebase.components.ComponentDiscoveryService"
-74-->[:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+74-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 75            android:directBootAware="true"
-75-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+75-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 76            android:exported="false" >
-76-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:35:13-37
+76-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:19:13-37
 77            <meta-data
-77-->[:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-78                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-78-->[:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+77-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+78                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
+78-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
 79                android:value="com.google.firebase.components.ComponentRegistrar" />
-79-->[:firebase_auth] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+79-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 80            <meta-data
-80-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-81                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-81-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+80-->[:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+81                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
+81-->[:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
 82                android:value="com.google.firebase.components.ComponentRegistrar" />
-82-->[:cloud_firestore] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+82-->[:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 83            <meta-data
-83-->[:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
-84                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-84-->[:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+83-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+84                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+84-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
 85                android:value="com.google.firebase.components.ComponentRegistrar" />
-85-->[:firebase_core] /media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
-86            <meta-data
-86-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
-87                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-87-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
-88                android:value="com.google.firebase.components.ComponentRegistrar" />
-88-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
-89            <meta-data
-89-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
-90                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-90-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
-91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/8b0e3ebeb07e9bf06c438148c10cae6d/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
-92        </service>
-93
-94        <activity
-94-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
-95            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-95-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
-96            android:excludeFromRecents="true"
-96-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
-97            android:exported="true"
-97-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
-98            android:launchMode="singleTask"
-98-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
-99            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-99-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
-100            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-100-->[com.google.firebase:firebase-auth:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/aad090aff6e49f6452581901fa3c8472/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
-101
-102        <provider
-102-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
-103            android:name="com.google.firebase.provider.FirebaseInitProvider"
-103-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
-104            android:authorities="com.example.viola_admin.firebaseinitprovider"
-104-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
-105            android:exported="false"
-105-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
-106            android:initOrder="100" />
-106-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/e056cef4666eac0707d04a8fa10ad723/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
-107
-108        <activity
-108-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
-109            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-109-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
-110            android:exported="false"
-110-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
-111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-111-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
-112
-113        <meta-data
-113-->[com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
-114            android:name="com.google.android.gms.version"
-114-->[com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
-115            android:value="@integer/google_play_services_version" />
-115-->[com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c555f186dd54c43fc0665f67c1da9646/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
-116    </application>
-117
-118</manifest>
+85-->[com.google.firebase:firebase-firestore:21.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/c7363f90cf95c7233c45b50f5163eaff/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+86        </service>
+87
+88        <activity
+88-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+89            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+89-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+90            android:exported="false"
+90-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+91-->[com.google.android.gms:play-services-base:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+92
+93        <provider
+93-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+94            android:name="com.google.firebase.provider.FirebaseInitProvider"
+94-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+95            android:authorities="com.example.VoilaGiftApp.firebaseinitprovider"
+95-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+96            android:exported="false"
+96-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+97            android:initOrder="100" />
+97-->[com.google.firebase:firebase-common:19.3.0] /home/sally/.gradle/caches/transforms-2/files-2.1/a0532e0d3a2135eb30a81c059e6c7580/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:17.0.0] /home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+102    </application>
+103
+104</manifest>

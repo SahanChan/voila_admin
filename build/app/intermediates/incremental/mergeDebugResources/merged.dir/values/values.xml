@@ -102,14 +102,14 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="default_web_client_id" translatable="false">950314970576-ie89ahh8dk2qqmh73iatkvd070eg5mm6.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://voila-admin-5ef5a.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">950314970576</string>
-    <string name="google_api_key" translatable="false">AIzaSyAf1GKJqWKbDtnQyoVkwZrwuTfaTDk4d_M</string>
-    <string name="google_app_id" translatable="false">1:950314970576:android:10a6899a83c45924cd5dd5</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAf1GKJqWKbDtnQyoVkwZrwuTfaTDk4d_M</string>
-    <string name="google_storage_bucket" translatable="false">voila-admin-5ef5a.appspot.com</string>
-    <string name="project_id" translatable="false">voila-admin-5ef5a</string>
+    <string name="default_web_client_id" translatable="false">855098477737-1v52k916pj6sgk2hfmnrvikqk0b3mhmk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://voila-cake-shop.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">855098477737</string>
+    <string name="google_api_key" translatable="false">AIzaSyB69s_bOYH_bNuU1a4iLsha4XwHvwxQtcM</string>
+    <string name="google_app_id" translatable="false">1:855098477737:android:3a201e3806a9547c96adb8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB69s_bOYH_bNuU1a4iLsha4XwHvwxQtcM</string>
+    <string name="google_storage_bucket" translatable="false">voila-cake-shop.appspot.com</string>
+    <string name="project_id" translatable="false">voila-cake-shop</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
         <!-- Show a splash screen on the activity. Automatically removed when

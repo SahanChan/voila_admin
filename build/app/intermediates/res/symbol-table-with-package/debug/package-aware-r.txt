@@ -1,4 +1,4 @@
-com.example.viola_admin
+com.example.VoilaGiftApp
 attr alpha
 attr buttonSize
 attr circleCrop
