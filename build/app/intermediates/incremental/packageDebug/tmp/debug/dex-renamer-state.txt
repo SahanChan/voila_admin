@@ -1,4 +1,4 @@
-#Wed Oct 14 13:48:17 IST 2020
+#Thu Oct 15 10:57:53 IST 2020
 path.3=classes_0.dex
 path.2=classes2.dex
 path.1=classes.dex
@@ -7,10 +7,10 @@ path.0=classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
-base.4=/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex
+base.4=/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex
 renamed.0=classes.dex
-base.3=/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
-base.2=/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes2.dex
-base.1=/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
-base.0=/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+base.3=/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
+base.2=/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes2.dex
+base.1=/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.0=/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.4=classes_1.dex

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/sally/.gradle/caches/transforms-2/files-2.1/ffae36e2265a05896fc1283cee922824/jetified-play-services-basement-17.0.0/res/values/values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/home/sally/VoilaAdmin/voila_admin/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -57,7 +57,7 @@
                     }
                 },
                 {
-                    "source": "/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/sally/VoilaAdmin/voila_admin/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

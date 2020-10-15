@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "outputFile": "/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
             "map": [
                 {
                     "source": "/home/sally/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/values-en-rXC/values-en-rXC.xml",

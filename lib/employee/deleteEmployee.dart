@@ -53,7 +53,7 @@ class _DeleteEmployeeState extends State<DeleteEmployee> {
                                             8, 8, 8, 2),
                                         child: Center(
                                           child: Text(
-                                            list[index]['name'],
+                                            "Name: " + list[index]['name'],
                                             style: TextStyle(
                                                 fontSize: 15,
                                                 fontWeight: FontWeight.bold),
@@ -64,7 +64,7 @@ class _DeleteEmployeeState extends State<DeleteEmployee> {
                                         padding: const EdgeInsets.all(8.0),
                                         child: Center(
                                           child: Text(
-                                            list[index]['nic'],
+                                            "NIC Number: " + list[index]['nic'],
                                             style: TextStyle(fontSize: 12),
                                           ),
                                         ),
@@ -73,7 +73,8 @@ class _DeleteEmployeeState extends State<DeleteEmployee> {
                                         padding: const EdgeInsets.all(8.0),
                                         child: Center(
                                           child: Text(
-                                            list[index]['telephone'],
+                                            "Telephone number: " +
+                                                list[index]['telephone'],
                                             style: TextStyle(fontSize: 12),
                                           ),
                                         ),

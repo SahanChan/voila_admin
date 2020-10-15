@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/media/sally/Files/SLIIT/y2s2/IT2080 - ITP (Information Technology Project)/Voila Admin App/viola_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+            "outputFile": "/home/sally/VoilaAdmin/voila_admin/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
             "map": [
                 {
                     "source": "/home/sally/.gradle/caches/transforms-2/files-2.1/dfda874e59ae708b9dea8d783cda1c4f/play-services-base-17.0.0/res/values-pl/values.xml",
